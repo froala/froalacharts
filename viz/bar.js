@@ -1,0 +1,1 @@
+import Bar from"@froalacharts/charts/src/chart/msbar2d";export default Bar;

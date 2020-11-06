@@ -1,0 +1,1 @@
+import Stackedarea from"@froalacharts/charts/src/chart/stackedarea2d";export default Stackedarea;

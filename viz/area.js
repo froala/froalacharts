@@ -1,0 +1,1 @@
+import Area from"@froalacharts/charts/src/chart/msarea";export default Area;

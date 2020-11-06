@@ -1,0 +1,1 @@
+import Batchexport from"@froalacharts/features/src/batchexport";export default Batchexport;

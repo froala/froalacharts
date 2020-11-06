@@ -1,0 +1,1 @@
+import Logo from"@froalacharts/features/src/logo";export default Logo;

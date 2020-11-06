@@ -1,0 +1,1 @@
+import Annotation from"@froalacharts/features/src/annotation";export default Annotation;

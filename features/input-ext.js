@@ -1,0 +1,1 @@
+import Inputext from"@froalacharts/features/src/input-ext";export default Inputext;

@@ -1,0 +1,1 @@
+import Angulargauge from"@froalacharts/widgets/src/chart/angulargauge";export default Angulargauge;

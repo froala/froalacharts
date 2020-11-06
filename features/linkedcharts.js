@@ -1,0 +1,1 @@
+import Linkedcharts from"@froalacharts/features/src/linkedcharts";export default Linkedcharts;

@@ -1,0 +1,1 @@
+import Heatmap from"@froalacharts/powercharts/src/chart/heatmap";export default Heatmap;

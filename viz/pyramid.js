@@ -1,0 +1,1 @@
+import Pyramid from"@froalacharts/widgets/src/chart/pyramid";export default Pyramid;

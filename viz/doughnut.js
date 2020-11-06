@@ -1,0 +1,1 @@
+import Doughnut from"@froalacharts/charts/src/chart/doughnut2d";export default Doughnut;

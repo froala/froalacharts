@@ -1,0 +1,1 @@
+import Funnel from"@froalacharts/widgets/src/chart/funnel";export default Funnel;

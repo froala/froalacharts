@@ -1,0 +1,1 @@
+import DataStore from"@froalacharts/datatable/src/index";import{getConfig,setConfig}from"@froalacharts/datatable/src/globalConfig";export default DataStore;export{getConfig,setConfig};

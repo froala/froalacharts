@@ -1,0 +1,1 @@
+import Scatter from"@froalacharts/charts/src/chart/scatter";export default Scatter;

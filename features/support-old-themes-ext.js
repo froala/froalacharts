@@ -1,0 +1,1 @@
+import Supportoldthemesext from"@froalacharts/features/src/support-old-themes-ext";export default Supportoldthemesext;

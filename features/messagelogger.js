@@ -1,0 +1,1 @@
+import Messagelogger from"@froalacharts/features/src/messagelogger";export default Messagelogger;

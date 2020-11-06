@@ -1,0 +1,1 @@
+import Regressionextension from"@froalacharts/features/src/regression-extension";export default Regressionextension;

@@ -1,0 +1,1 @@
+import Column from"@froalacharts/charts/src/chart/mscolumn2d";export default Column;

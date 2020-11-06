@@ -1,0 +1,1 @@
+import Legendeventmanagerlinker from"@froalacharts/features/src/legend-event-manager-linker";export default Legendeventmanagerlinker;

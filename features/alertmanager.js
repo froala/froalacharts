@@ -1,0 +1,1 @@
+import Alertmanager from"@froalacharts/features/src/alertmanager";export default Alertmanager;

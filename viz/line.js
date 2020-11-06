@@ -1,0 +1,1 @@
+import Line from"@froalacharts/charts/src/chart/msline";export default Line;

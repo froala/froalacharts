@@ -1,0 +1,1 @@
+import Chord from"@froalacharts/powercharts/src/chart/chord";export default Chord;

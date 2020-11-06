@@ -1,0 +1,1 @@
+import Pie from"@froalacharts/charts/src/chart/pie2d";export default Pie;

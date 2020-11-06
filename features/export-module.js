@@ -1,0 +1,1 @@
+import Exportmodule from"@froalacharts/features/src/export-module";export default Exportmodule;

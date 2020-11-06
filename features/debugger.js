@@ -1,0 +1,1 @@
+import Debugger from"@froalacharts/features/src/debugger";export default Debugger;

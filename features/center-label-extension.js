@@ -1,0 +1,1 @@
+import Centerlabelextension from"@froalacharts/features/src/center-label-extension";export default Centerlabelextension;

@@ -1,0 +1,1 @@
+import FroalaCharts from"../core/fc-backward-compatibility";if(window&&typeof define==="function"&&define.amd){window.FroalaCharts=FroalaCharts}export default FroalaCharts;

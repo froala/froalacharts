@@ -1,0 +1,1 @@
+import{TimeSeries}from"@froalacharts/fusiontime/src";export default TimeSeries;

@@ -1,0 +1,1 @@
+import aggregatorStore from"@froalacharts/datatable/src/aggregators/index.js";export{aggregatorStore};

@@ -1,0 +1,1 @@
+import Sankey from"@froalacharts/powercharts/src/chart/sankey";export default Sankey;

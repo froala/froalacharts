@@ -1,0 +1,1 @@
+import Defaulttheme from"@froalacharts/features/src/default-theme";export default Defaulttheme;

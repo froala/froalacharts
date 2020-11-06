@@ -1,0 +1,1 @@
+import Jsonurltranscoder from"@froalacharts/features/src/json-url-transcoder";export default Jsonurltranscoder;

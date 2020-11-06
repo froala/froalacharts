@@ -1,0 +1,1 @@
+import Bubble from"@froalacharts/charts/src/chart/bubble";export default Bubble;

@@ -1,0 +1,1 @@
+import Stackedbar from"@froalacharts/charts/src/chart/stackedbar2d";export default Stackedbar;

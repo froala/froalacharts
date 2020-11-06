@@ -1,0 +1,1 @@
+import Dataskipping from"@froalacharts/features/src/data-skipping";export default Dataskipping;

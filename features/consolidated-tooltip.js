@@ -1,0 +1,1 @@
+import Consolidatedtooltip from"@froalacharts/features/src/consolidated-tooltip";export default Consolidatedtooltip;

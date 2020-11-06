@@ -1,0 +1,1 @@
+import Combination from"@froalacharts/charts/src/chart/mscombidy2d";export default Combination;

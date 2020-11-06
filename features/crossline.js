@@ -1,0 +1,1 @@
+import Crossline from"@froalacharts/features/src/crossline";export default Crossline;
